@@ -9,7 +9,7 @@ import {styles} from './styles';
 
 const Signin = () => {
   const onSignin = () => {
-    console.log('Sign Up');
+    console.log('Sign Up ');
   };
   return (
     <ScrollView style={styles.container}>
